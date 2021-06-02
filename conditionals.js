@@ -51,7 +51,7 @@ let b = 3
 
     /*Exercise Level 2 */
     // STUDENT GRADES
-    let studentScore = 30
+    // let studentScore = 30
 
     switch (studentScore) {
         case studentScore > 80:
@@ -74,7 +74,25 @@ let b = 3
     }
 
     // SEASONS
-    
+// let month = prompt('Enter Your Age')
 
+    //  if (month === 'September' || month === 'October' || month === 'November' ) {
+    //      console.log ('The season in Autumn')
+    //  } else if (month === 'December' || month === 'January' || month === 'February') {
+    //      console.log('The Season is Winter')
+    //  } else if (month === 'March' || month === 'April' || month === 'May') {
+    //      console.log('The Season Spring')
+    //  } else  {
+    //      console.log('The Season is Summer')
+    //  }
+
+    /* Check id day is week day or weekend */
+// let dday = prompt('What is the day  today')
+// let day = dday.getDay();
+
+// if( dday.getDay() == 6 || dday.getDay() == 0 ) {
+//     console.log(day + ' is a weekend')
+// }
+    
 
         
